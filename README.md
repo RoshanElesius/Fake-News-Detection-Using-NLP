@@ -1,1 +1,1 @@
-AI-Phase Submission for Fake News Detection Using NLP
+ Fake News Detection Using NLP for AI-Phase Submission
