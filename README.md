@@ -93,7 +93,7 @@ The file structure is the following
 
 * Count of News subject
 
-![count of news subject.png](..%2Fcount%20of%20news%20subject.png)
+![count of news subject](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/9fe718fe-9e7f-4cd7-adcb-008b67964cf3)
 
 * Count of News subject based on True or Fake news
 
