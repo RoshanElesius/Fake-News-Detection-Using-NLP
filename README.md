@@ -52,27 +52,30 @@ The file structure is the following
 
 2. Make sure you have all the dependencies installed-  
 
- Basic Libraries:
+1. Basic Libraries:
 * pandas
 * numpy
-Visualization Libraries:
+
+2. Visualization Libraries:
 * matplotlib
 * seaborn
-NLTK Libraries:
+
+3. NLTK Libraries:
 * re and string
 * stopwords
 * wordcloud
-Machine Learning Libraries:
+
+4. Machine Learning Libraries:
 * GridSearchCV
 * LogisticRegression
 * DecisionTreeClassifier
 * MultinomialNB
 * KNeighborsClassifier
 *  train_test_split
-Deep Learning Libraries:
+
+5. Deep Learning Libraries:
 * tensorflow.keras.layers
     
-
 ## Comparing Accuracies of Models
 
 | Model                                               |     Accuracy      |
@@ -88,7 +91,7 @@ Deep Learning Libraries:
 
 * Count of News subject
 
-![]("C:\Users\Roshan Elesius\Desktop\IBM -Naan Mudhalvan\count of news subject.png")
+![](C:\Users\Roshan Elesius\Desktop\IBM -Naan Mudhalvan\count of news subject.png)
 
 * Count of News subject based on True or Fake news
 
