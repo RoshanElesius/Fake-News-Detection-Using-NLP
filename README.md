@@ -97,43 +97,46 @@ The file structure is the following
 
 * Count of News subject based on True or Fake news
 
-![](<count of news subject(2).png>)
+![count of news subject(2)](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/865a052e-a490-45ab-8d95-d1a26eba2a69)
+
 
 ## N-gram Analysis
 
 * Top 20 words in news
 
-![](<20 words.png>)
+![20 words](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/367a1589-d0aa-4d2b-aad9-e6842dd7f7c9)
+
 
 * Top 20 bigrams in news
 
-![](<20 bigram.png>)
+![20 bigram](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/1cd2b88d-56c9-4cd9-8b26-99788a4e3fd3)
+
 
 ## Word Cloud Of Fake News
 
-![](<Fake news.png>)
+![Fake news](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/d6cc49b8-c906-4fe4-bfdb-de238a5e0b38)
 
 ## Word Cloud Of True News
 
-![](<True News.png>)
+![True News](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/da91bc8a-e02a-48ba-ac98-7405a857c62e)
 
 ## Time series analysis -Fake/True News
 
-![](<Time series analysis.png>)
-
+![Time series analysis](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/c1fb0b3d-64b8-4430-a641-e5bb19c05c7a)
 
 ## ROC-AUC Curve
 
-![](<ROC-AUC Curve.png>)
+![ROC-AUC Curve](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/a2d050f0-d298-4b00-899a-17a75056f150)
 
 ## Confusion Matrices
 
 * Logistic Regression with hyperparameter Tuning
 
-![](<logistic regression.png>)
+![logistic regression](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/27c49847-38f7-45f6-9316-1d5294273e74)
 
 * LSTM
 
-![](LSTM.png)
+![LSTM](https://github.com/RoshanElesius/Fake-News-Detection-Using-NLP/assets/138104926/b2aeb462-eb31-4846-aafb-35a7d02beb06)
+
 
 
