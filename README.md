@@ -92,7 +92,7 @@ The file structure is the following
 
 * Count of News subject
 
-![](https://ibb.co/KxG9FYX)
+![Logo](https://ibb.co/KxG9FYX)
 
 * Count of News subject based on True or Fake news
 
