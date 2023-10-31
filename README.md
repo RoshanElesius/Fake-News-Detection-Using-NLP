@@ -92,7 +92,7 @@ The file structure is the following
 
 * Count of News subject
 
-![](<count of news subject-1.png>)
+![count of news subject.png](..%2Fcount%20of%20news%20subject.png)
 
 * Count of News subject based on True or Fake news
 
