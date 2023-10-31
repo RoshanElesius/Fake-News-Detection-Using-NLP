@@ -92,47 +92,47 @@ The file structure is the following
 
 * Count of News subject
 
-![Alt text](<count of news subject-1.png>)
+![](<count of news subject-1.png>)
 
 * Count of News subject based on True or Fake news
 
-![Alt text](<count of news subject(2).png>)
+![](<count of news subject(2).png>)
 
 ## N-gram Analysis
 
 * Top 20 words in news
 
-![Alt text](<20 words.png>)
+![](<20 words.png>)
 
 * Top 20 bigrams in news
 
-![Alt text](<20 bigram.png>)
+![](<20 bigram.png>)
 
 ## Word Cloud Of Fake News
 
-![Alt text](<Fake news.png>)
+![](<Fake news.png>)
 
 ## Word Cloud Of True News
 
-![Alt text](<True News.png>)
+![](<True News.png>)
 
 ## Time series analysis -Fake/True News
 
-![Alt text](<Time series analysis.png>)
+![](<Time series analysis.png>)
 
 
 ## ROC-AUC Curve
 
-![Alt text](<ROC-AUC Curve.png>)
+![](<ROC-AUC Curve.png>)
 
 ## Confusion Matrices
 
 * Logistic Regression with hyperparameter Tuning
 
-![Alt text](<logistic regression.png>)
+![](<logistic regression.png>)
 
 * LSTM
 
-![Alt text](LSTM.png)
+![](LSTM.png)
 
 
