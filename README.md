@@ -53,20 +53,20 @@ The file structure is the following
 
 2. Make sure you have all the dependencies installed-  
 
-1. Basic Libraries:
+i). Basic Libraries:
 * pandas
 * numpy
 
-2. Visualization Libraries:
+ii). Visualization Libraries:
 * matplotlib
 * seaborn
 
-3. NLTK Libraries:
+iii). NLTK Libraries:
 * re and string
 * stopwords
 * wordcloud
 
-4. Machine Learning Libraries:
+iv). Machine Learning Libraries:
 * GridSearchCV
 * LogisticRegression
 * DecisionTreeClassifier
@@ -74,7 +74,7 @@ The file structure is the following
 * KNeighborsClassifier
 *  train_test_split
 
-5. Deep Learning Libraries:
+v). Deep Learning Libraries:
 * tensorflow.keras.layers
     
 
